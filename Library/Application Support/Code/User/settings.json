@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "vim.vimrc.enable": true,
+    "vim.useSystemClipboard": true
+    "vim.vimrc.path": "~/.vimrc",
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "files.watcherExclude": {
+        "**/.bloop": true,
+        "**/.metals": true,
+        "**/.ammonite": true
+    },
+    "editor.fontFamily": "Monolisa LD, Menlo, Monaco, 'Courier New', monospace"
+}
